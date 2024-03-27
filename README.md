@@ -1,2 +1,2 @@
 # typed.art
-typed.art site
+typed.art server
